@@ -4,10 +4,12 @@ You could view when who and what was changed in your DB. Scripts can add version
 
 #### Examples
 Changes are stored in dbo.DatabaseAudit table.  
-From [examples.sql](/examples.sql)   
+From [examples.sql](/examples.sql)  
+ 
 ![dbo.DatabaseAudit](/content/database_audit.png "dbo.DatabaseAudit")
 
 Version and last update user from extended properties of object   
+
 ![Extended properties](/content/extended_properties.png "Extended properties")
 
 #### Usage
